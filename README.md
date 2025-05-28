@@ -20,8 +20,8 @@ This project explores the factors influencing student performance in exams using
 
 ## 🎯 Objectives
 
-- Analyze how demographic factors impact academic performance.
-- Investigate the effectiveness of test preparation courses.
+
+- Investigate how the parental level of education impacts con students
 - Visualize score distributions across different subjects.
 - Provide actionable insights for improving student outcomes.
 
@@ -49,9 +49,8 @@ This project explores the factors influencing student performance in exams using
 
 ## 📈 Key Findings
 
-- Students who completed test preparation scored significantly higher.
-- Parental education level correlates with student performance.
-- Lunch type and gender showed some influence on scores.
+- Since the population is not the same for all the groups the correlation between the entire populatio and the sample was different
+- Parental education level doesnt correlates with student performance.
 
 ---
 
